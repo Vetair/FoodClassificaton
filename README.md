@@ -1,0 +1,2 @@
+# FoodClassificaton
+An undergraduate project
